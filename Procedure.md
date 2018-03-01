@@ -13,3 +13,10 @@ $ cd pra-git
 ```
 
 一旦これで作業するためのリポジトリを作る！
+
+<br>
+
+参考にするといいw↓
+
+- [https://github.com/soeyusuke/C6/tree/master/shareinfo/git](https://github.com/soeyusuke/C6/tree/master/shareinfo/git)
+- [https://backlog.com/ja/git-tutorial/](https://backlog.com/ja/git-tutorial/)
